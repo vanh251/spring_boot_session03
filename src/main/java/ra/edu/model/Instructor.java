@@ -1,4 +1,4 @@
-package com.session3.model;
+package ra.edu.model;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

@@ -1,4 +1,4 @@
-package com.session3.repository;
+package ra.edu.repository;
 
 import org.springframework.stereotype.Repository;
 import ra.edu.model.Course;

@@ -1,4 +1,4 @@
-package com.session3;
+package ra.edu;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

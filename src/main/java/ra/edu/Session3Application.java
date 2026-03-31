@@ -1,4 +1,4 @@
-package com.session3;
+package ra.edu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
